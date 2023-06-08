@@ -8,12 +8,8 @@
     width: 30vw;
 } */
 
-.horse-background {
-    background-image: url('https://cdn.dribbble.com/userupload/3740395/file/original-c641977a8e91174803dca763474c4fe7.png?compress=1&resize=1504x1128');
-    background-size: cover;
-    height: 70vh;
-    background-position: 10% 60%;
-    /* align-items: end; */
+.horse-logo {
+    max-height: 50vh;
 }
 
 .working {
