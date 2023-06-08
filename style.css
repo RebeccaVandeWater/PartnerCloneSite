@@ -3,14 +3,31 @@
     border: none;
 }
 
-/* .horse-img {
-    height: 30vh;
-    width: 30vw;
-} */
-
 .horse-logo {
     max-height: 50vh;
 }
+
+.small-horse-logo {
+    max-height: 5vh;
+}
+
+.headings-font {
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.sub-heading-font {
+    font-family: 'Forum', cursive;
+}
+
+.all-caps {
+    text-transform: uppercase;
+}
+
+.nav-shadow {
+    box-shadow: 0px 3px 10px -7px rgba(105, 105, 105, 1);
+}
+
+/* SECTION - IMAGES */
 
 .working {
     background-image: url(https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80);
